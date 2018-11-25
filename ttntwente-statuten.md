@@ -39,12 +39,12 @@ Erfstellingen kunnen door de stichting niet anders worden aanvaard dan onder het
 5. Bestuurders worden benoemd voor maximaal drie jaar, met dien verstande dat van het eerste bestuur van de stichting de oprichter sub 2 wordt benoemd voor een periode van één jaar en de oprichter sub 3 voor een periode van twee jaar.
 Na ommenkomst van de bestuursperiode waarvoor een bestuurder is benoemd, is de betreffende bestuurder onmiddellijk herbenoembaar.
 6. Een bestuurder defungeert:
-  1. door zijn of haar overlijden;
-  2. doordat hij of zij failliet wordt verklaard of surséance van betaling aanvraagt;
-  3. door zijn of haar onder curatele stelling;
-  4. door zijn of haar aftreden;
-  5. door zijn of haar ontslag door de rechtbank;
-  6. door zijn of haar ontslag verleend door de gezamenlijke overige bestuurders.
+    1. door zijn of haar overlijden;
+    2. doordat hij of zij failliet wordt verklaard of surséance van betaling aanvraagt;
+    3. door zijn of haar onder curatele stelling;
+    4. door zijn of haar aftreden;
+    5. door zijn of haar ontslag door de rechtbank;
+    6. door zijn of haar ontslag verleend door de gezamenlijke overige bestuurders.
 7. Een besluit als bedoeld in lid 6 sub 6 van dit artikel moet worden genomen met een meerderheid van twee/derde van de uitgebrachte stemmen.
 
 **Bestuur; taak en bevoegdheden. Artikel 5.**
