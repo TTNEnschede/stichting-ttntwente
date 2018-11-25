@@ -1,9 +1,5 @@
 # Statuten Stichting Things Network Twente
 
-## Statuten Stichting Things Network Twente
-
-De stichting is ingeschreven in het stichtingen register van de Kamer van Koophandel onder nummer: __XXX__\. Uittreksel uit de oprichtingsakte van __XXX__:
-
 **Naam en Zetel. Artikel 1.**
 
 De stichting draagt de naam: Stichting Things Network Twente. Zij is gevestigd te Enschede.
@@ -122,6 +118,4 @@ Voor de eerste maal bestaat het bestuur van de stichting uit:
 1. de heer Timothy Sealy, voornoemd, als voorzitter;
 2. de heer Cor Bouwhuis, voornoemd, als secretaris;
 3. de heer Jeroen van Ingen Schenau, voornoemd, als penningmeester.
-
-Waarvan akte, verleden te Enschede op de datum in het hoofd van deze akte vermeld. De verschenen personen zijn aan mij, notaris, bekend. De zakelijke inhoud van de akte is door mij, notaris, aan de verschenen personen meegedeeld en toegelicht. De verschenen personen hebben verklaard tijdig van de inhoud van de akte te hebben kennis genomen en daarmee in te stemmen. Vervolgens is de akte beperkt voorgelezen en daarna door de verschenen personen ondertekend. Onmiddellijk is daarna deze akte door mij, notaris, ondertekend.
 
