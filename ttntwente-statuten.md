@@ -12,24 +12,24 @@ De stichting draagt de naam: Stichting Things Network Twente. Zij is gevestigd t
 **Doel. Artikel 2.**
 
 1. De stichting heeft ten doel:
-  1. kennisoverdracht op het gebied van "Internet of Things" ter ondersteuning van de "Smart Citizen";
-  2. faciliteren van infrastructuur ten behoeve van low power wide area netwerkcommunicatie;
-  3. het verzamelen, ontwikkelen, verspreiden, openbaar en toegankelijk maken van kennis over "Internet of Things" en sensortechniek in het algemeen en low power wide area netwerktechnieken in het bijzonder.
+    1. kennisoverdracht op het gebied van "Internet of Things" ter ondersteuning van de "Smart Citizen";
+    2. faciliteren van infrastructuur ten behoeve van low power wide area netwerkcommunicatie;
+    3. het verzamelen, ontwikkelen, verspreiden, openbaar en toegankelijk maken van kennis over "Internet of Things" en sensortechniek in het algemeen en low power wide area netwerktechnieken in het bijzonder.
 
 2. De stichting tracht dit doel te bereiken door:
-  1. het organiseren van bijeenkomsten ten behoeve van kennisoverdracht;
-  2. het bieden van een proeftuin;
-  3. het als partner deelnemen aan projecten ten behoeve van cq met betrokkenheid van "Smart Citizens",
+    1. het organiseren van bijeenkomsten ten behoeve van kennisoverdracht;
+    2. het bieden van een proeftuin;
+    3. het als partner deelnemen aan projecten ten behoeve van cq met betrokkenheid van "Smart Citizens",
 
 3. De stichting beoogt niet het maken van winst.
 
 **Vermogen. Artikel 3.**
 1.  Het vermogen van de stichting wordt gevormd door:
-  1. vergoedingen en bijdragen van door de stichting geleverde diensten;
-  2. subsidies, giften en donaties;
-  3. hetgeen verkregen wordt door erfstellingen of legaten;
-  4. hetgeen op andere wijze verkregen wordt.
-Erfstellingen kunnen door de stichting niet anders worden aanvaard dan onder het voorrecht van boedelbeschrijving.
+    1. vergoedingen en bijdragen van door de stichting geleverde diensten;
+    2. subsidies, giften en donaties;
+    3. hetgeen verkregen wordt door erfstellingen of legaten;
+    4. hetgeen op andere wijze verkregen wordt.
+2. Erfstellingen kunnen door de stichting niet anders worden aanvaard dan onder het voorrecht van boedelbeschrijving.
 
 **Bestuur; samenstelling, benoeming en ontslag. Artikel 4.**
 1. Het bestuur bestaat uit tenminste drie en ten hoogste zeven natuurlijke personen.
